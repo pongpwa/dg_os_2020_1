@@ -1,0 +1,5 @@
+home d 755 3 root root 4096 3 21
+os d 755 19 root root 4096 5 26 /home
+etc d 755 123 root root 12288 5 23 /home/os
+lib d 755 21 root root 4096 3 21 /home/os
+aa d 755 3 root root 4096 6 13 /home/os
